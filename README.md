@@ -39,3 +39,6 @@ The goal is to improve learning efficiency, coding ability, and problem-solving 
 
 ## 📎 Note
 This repository serves as a simple demonstration of how AI is integrated into my daily study workflow as a computer science student.
+
+## 📂 Example Code
+This repository includes simple example code generated and optimized with AI assistance to demonstrate practical usage.
